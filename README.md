@@ -10,7 +10,7 @@
 ### 🙆 About me
 - 🔭 I'm newbie Gopher
 - ⚒️ I'm doing .NET at work, Go, Python and Nodejs as hobby
-- 🤖 Interested in LLM, Computer Vision
+- 🦚 I'm doing Angular at work but also crafting frontend with React, Tailwindcss at home
+- ✨ Interested in LLM, Computer Vision
 - 📫 How to reach me: truchjkl@gmail.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: Good at cooking & love photography
+- ⚡ Hobbist photographer & badminton
