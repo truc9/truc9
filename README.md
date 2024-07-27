@@ -9,7 +9,8 @@
 
 ### 🙆 About me
 - 🔭 I'm newbie Gopher
-- ⚒️ I'm doing .NET on daily basis
+- ⚒️ I'm doing .NET at work, Go, Python and Nodejs as hobby
+- 🤖 Interested in LLM, Computer Vision
 - 📫 How to reach me: truchjkl@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Good at cooking & love photography
